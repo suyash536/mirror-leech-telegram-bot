@@ -1,5 +1,1 @@
 theme: jekyll-theme-time-machine
-API_ID = int(environ.get("API_ID", "20031391"))
-API_HASH = environ.get("API_HASH", "64a4dd9d4d4c7f7be23df45e61eb7869")
-BOT_TOKEN = environ.get("BOT_TOKEN", "8187284863:AAFNS8DA961SA2M-bXq2wmJGz6DA7txGX5w")
-
